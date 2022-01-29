@@ -29,7 +29,7 @@
 </ul>
 <br>
 <h2>Dataset :</h2>
-<p>You can collect raw dataset from <a href ="https://github.com/Kamal2511/Spam-classifier/blob/main/Dataset/spam.csv">here</a>. The files contain one message per line. Each line is composed by two columns:
+<p>You can collect raw dataset from <a href ="https://github.com/Vipin-Uniyal/Spam-Classifier/blob/main/Dataset/spam.csv">here</a>. The files contain one message per line. Each line is composed by two columns:
 <ul>
   <li>Class(v1)- contains the label (ham or spam)</li>
   <li>Message(v2) - contains the raw text.</li>
