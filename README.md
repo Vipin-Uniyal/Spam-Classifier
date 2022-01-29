@@ -2,7 +2,7 @@
 <p align='center'><img height='200' width='200' src='https://user-images.githubusercontent.com/31500911/143222349-cec3a8c3-dd01-4d6b-87bb-f590eee880c7.png'></p>
 
 <h1 align='center'> Model deploy using Streamlit on Heroku platform</h1>
-<h3 align='center'>https://email-spam-detection-kamal.herokuapp.com/</h3>
+<h3 align='center'>https://email-spam-classifier-vipin.herokuapp.com/</h3>
 <br>
 <p>In this project I built a model for classifying the Email/SMS into <b>Spam</b> or <b>Ham</b> through the text of Email/SMS using standard classifiers.</p>
 <br>
