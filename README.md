@@ -13,7 +13,7 @@
 <p align='center'><img src='https://user-images.githubusercontent.com/31500911/143228104-d5c25e1f-606f-4eb1-8848-3916650082ee.gif'></p>
 <br>
 <h2>How it does : </h2>
-<p>Extract the text and the target class from the dataset. Extract the features of the test using TF IDF vectorizer for the input features. Split the skewed data into shuffled sets using stratified shuffle split in sklearn library. Use standard classifiers to classify the data into spam or ham.</p>
+<p>Extract the text and the target class from the dataset. Extract the features of the test using TF IDF vectorizer for the input features.  Use standard classifiers to classify the data into spam or ham.</p>
 <br>
 <p align='center'><img src='https://user-images.githubusercontent.com/31500911/143228853-d59b05e8-4765-48ef-afec-fe91ec4cebcb.png'></p>
 <br>
